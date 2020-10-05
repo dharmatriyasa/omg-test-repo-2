@@ -8,5 +8,10 @@
 <body>
     <h1>Coba aja nich gengs</h1>
     <p>Nama-nama binatang:</p>
+    <ul>
+        <li>Ayam</li>
+        <li>Sapi</li>
+        <li>Kijang</li>
+    </ul>
 </body>
 </html>
